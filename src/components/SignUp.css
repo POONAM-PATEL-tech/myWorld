@@ -1,0 +1,21 @@
+#ip4 {
+    width: 30%;
+    margin-right: 3%;
+}
+
+#ip5 {
+    width: 30%;
+    margin-left: 0%
+}
+
+#ip3 {
+    width: 30%;
+}
+
+#span2 {
+    margin-left: 6%;
+}
+
+input {
+    height: 40px;
+}
